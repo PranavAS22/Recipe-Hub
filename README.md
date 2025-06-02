@@ -12,12 +12,15 @@ Recipe Hub is a sleek and responsive recipe search application built with **Reac
 
 ## 🖼️ Screenshots
 
-Potrait UI
+### HomePage
+![Home Screen](./home.png)
+
+### Potrait UI
 
 ![Potrait Screen](./potrait2.png)
+![Potrait Screen 2](./potrait1.png)
 
-./potrait2.png
-./protrait1.png
+
 
 *Frontend:** React, CSS
 - **API:** [TheMealDB API](https://www.themealdb.com/api.php)
