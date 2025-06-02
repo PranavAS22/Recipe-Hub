@@ -30,7 +30,7 @@ Recipe Hub is a sleek and responsive recipe search application built with **Reac
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/recipe-hub.git
+git clone https://github.com/PranavAS22/Recipe-Hub
 cd recipe-hub
 ```
 ### 2. Install dependencies
