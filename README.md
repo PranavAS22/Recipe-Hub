@@ -14,6 +14,9 @@ Recipe Hub is a sleek and responsive recipe search application built with **Reac
 
 Potrait UI
 
+potrait2.png
+protrait1.png
+
 *Frontend:** React, CSS
 - **API:** [TheMealDB API](https://www.themealdb.com/api.php)
 - **Routing:** React Router
@@ -25,14 +28,14 @@ Potrait UI
 git clone https://github.com/your-username/recipe-hub.git
 cd recipe-hub
 ```
-###2. Install dependencies
+### 2. Install dependencies
 ```
 npm install
 ```
-###3. Start the develpoment 
+### 3. Start the develpoment 
 ```
 npm run dev
 ```
-##🌐 Live Demo 
+## 🌐 Live Demo 
 
 https://youtu.be/K92LXLDjxL0
